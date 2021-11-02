@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wC6ITB4B6o9g3/vA9Ld4mK9eAleBcqRiEtcFNSuHK8Q3VDzk8zNni031SYDZsUVWmZQ2RoweglkPRYaYUMQ2dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\n.kajzer\\Projects\\minesweeper\\minesweeper-backend\\Minesweeper.Web\\Minesweeper.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\n.kajzer\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\n.kajzer\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\n.kajzer\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\n.kajzer\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\n.kajzer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\n.kajzer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

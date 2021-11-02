@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MineSweeper.Business/1.0.0": {
+        "dependencies": {
+          "Minesweeper.Model": "1.0.0",
+          "MineSweeperGenerator": "1.0.0.0"
+        },
+        "runtime": {
+          "MineSweeper.Business.dll": {}
+        }
+      },
+      "Minesweeper.Model/1.0.0": {
+        "runtime": {
+          "Minesweeper.Model.dll": {}
+        }
+      },
+      "MineSweeperGenerator/1.0.0.0": {
+        "runtime": {
+          "MineSweeperGenerator.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MineSweeper.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Minesweeper.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MineSweeperGenerator/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

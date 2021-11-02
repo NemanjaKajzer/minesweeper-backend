@@ -1,0 +1,16 @@
+C:\Users\n.kajzer\Projects\minesweeper\Minesweeper.Web\MineSweeper.Business\bin\Debug\net5.0\MineSweeper.Business.deps.json
+C:\Users\n.kajzer\Projects\minesweeper\Minesweeper.Web\MineSweeper.Business\bin\Debug\net5.0\MineSweeper.Business.dll
+C:\Users\n.kajzer\Projects\minesweeper\Minesweeper.Web\MineSweeper.Business\bin\Debug\net5.0\ref\MineSweeper.Business.dll
+C:\Users\n.kajzer\Projects\minesweeper\Minesweeper.Web\MineSweeper.Business\bin\Debug\net5.0\MineSweeper.Business.pdb
+C:\Users\n.kajzer\Projects\minesweeper\Minesweeper.Web\MineSweeper.Business\bin\Debug\net5.0\Minesweeper.Model.dll
+C:\Users\n.kajzer\Projects\minesweeper\Minesweeper.Web\MineSweeper.Business\bin\Debug\net5.0\MineSweeperGenerator.dll
+C:\Users\n.kajzer\Projects\minesweeper\Minesweeper.Web\MineSweeper.Business\bin\Debug\net5.0\Minesweeper.Model.pdb
+C:\Users\n.kajzer\Projects\minesweeper\Minesweeper.Web\MineSweeper.Business\obj\Debug\net5.0\MineSweeper.Business.csproj.AssemblyReference.cache
+C:\Users\n.kajzer\Projects\minesweeper\Minesweeper.Web\MineSweeper.Business\obj\Debug\net5.0\MineSweeper.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.kajzer\Projects\minesweeper\Minesweeper.Web\MineSweeper.Business\obj\Debug\net5.0\MineSweeper.Business.AssemblyInfoInputs.cache
+C:\Users\n.kajzer\Projects\minesweeper\Minesweeper.Web\MineSweeper.Business\obj\Debug\net5.0\MineSweeper.Business.AssemblyInfo.cs
+C:\Users\n.kajzer\Projects\minesweeper\Minesweeper.Web\MineSweeper.Business\obj\Debug\net5.0\MineSweeper.Business.csproj.CoreCompileInputs.cache
+C:\Users\n.kajzer\Projects\minesweeper\Minesweeper.Web\MineSweeper.Business\obj\Debug\net5.0\MineSweeper.Business.csproj.CopyComplete
+C:\Users\n.kajzer\Projects\minesweeper\Minesweeper.Web\MineSweeper.Business\obj\Debug\net5.0\MineSweeper.Business.dll
+C:\Users\n.kajzer\Projects\minesweeper\Minesweeper.Web\MineSweeper.Business\obj\Debug\net5.0\ref\MineSweeper.Business.dll
+C:\Users\n.kajzer\Projects\minesweeper\Minesweeper.Web\MineSweeper.Business\obj\Debug\net5.0\MineSweeper.Business.pdb
